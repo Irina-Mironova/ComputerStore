@@ -11,7 +11,8 @@
 
 Клонируйте репозиторий на свой локальный компьютер с github.com по ссылке https://github.com/Irina-Mironova/ComputerStore.git.
 Запустите проект в IntelliJ IDEA (метод main в классе ComputerStoreApplication).
-Документация API находится на странице Swagger UI. Вы можете открыть страницу Swagger UI, введя URL-адрес веб-приложения 
+Документация API находится на странице Swagger UI. 
+Вы можете открыть страницу Swagger UI, введя URL-адрес веб-приложения 
 http://localhost:8181/computer-store/swagger-ui/index.html
 
 Конфигурация
